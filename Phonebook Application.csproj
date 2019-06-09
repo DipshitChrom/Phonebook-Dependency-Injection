@@ -64,6 +64,9 @@
     <Compile Include="ConsoleWriter Interface\IConsoleWriter.cs" />
     <Compile Include="Interface\IPhonebook.cs" />
     <Compile Include="Interface\NewPhonebook.cs" />
+    <Compile Include="Interface\Services\IEmailService.cs" />
+    <Compile Include="Interface\Services\INotifyMessageService.cs" />
+    <Compile Include="Interface\User.cs" />
     <Compile Include="Phonebook.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
